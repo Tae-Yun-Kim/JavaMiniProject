@@ -15,7 +15,7 @@
 
 
 ## Project UML Class Diagram
-![캡처](https://github.com/user-attachments/assets/6a2090cf-67c0-4b48-8401-2df45c719da4)
+![image](https://github.com/user-attachments/assets/f6c0b6d5-4aa4-4ada-b5a5-984d92857934)
 
 
 ## 구현 화면
